@@ -1,0 +1,5 @@
+print(123)
+print("Hello, World!")
+print(2.56)
+print("Números:", 12, 34, 67.88)
+print("Números:", 12, 34, 67.88, sep='#')
